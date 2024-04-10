@@ -1,3 +1,8 @@
+
+# N=[1,2,3,4,5]
+#E=[(1,2),(1,3),(1,4),(1,5),(2,3),(4,5)]
+
+
 import networkx as nx
 import matplotlib.pyplot as plt
 
